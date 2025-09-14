@@ -671,3 +671,258 @@
                     <div class="composer-info">
                         <strong>우주의 신비를 음악으로 표현한 작곡가</strong><br>
                         홀스트는 각 행성의 특징을 독창적인 음악으로 표현했습니다.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">🎵 곡 특징</div>
+                <div class="section-content">
+                    <strong>🎭 부제:</strong> "마법사" (The Magician)<br><br>
+                    <strong>🔮 신비로운 분위기:</strong> 천왕성은 태양계에서 가장 추운 행성 중 하나로, 신비롭고 기괴한 특성을 가지고 있습니다.<br><br>
+                    <strong>🎼 음악적 표현:</strong> 예측불가능한 리듬과 신비로운 소리들로 우주의 미지의 세계와 마법 같은 신비로움을 표현했습니다. 마치 우주 저편에서 들려오는 신비한 소리 같아요.
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 7번 곡 모달 -->
+    <div class="modal" id="modal-7">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div class="modal-header">
+                <div class="modal-emoji">🏹</div>
+                <div class="modal-song-title">빌헬름 텔 서곡</div>
+                <div class="modal-composer">로시니 (1792-1868)</div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">👨‍🎼 작곡가 소개</div>
+                <div class="section-content">
+                    <div class="composer-info">
+                        <strong>이탈리아의 오페라 거장</strong><br>
+                        로시니는 39세에 오페라 작곡을 그만둘 만큼 천재적인 작곡가였습니다. 빠르고 정확한 작곡으로 유명했어요.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">🎵 곡 특징</div>
+                <div class="section-content">
+                    <strong>🎪 오페라 서곡:</strong> 스위스의 영웅 빌헬름 텔의 이야기를 담은 오페라의 시작 음악<br><br>
+                    <strong>🍎 유명한 장면:</strong> 활 쏘기의 명인인 텔이 아들 머리 위의 사과를 화살로 맞추는 전설적인 장면을 떠올리게 합니다.<br><br>
+                    <strong>🎼 음악적 표현:</strong> 처음에는 조용하고 신비로운 분위기로 시작하다가, 점점 빨라지면서 마지막에는 매우 빠르고 신나는 멜로디로 마무리됩니다. 많은 사람들이 들어본 익숙한 멜로디예요!
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 8번 곡 모달 -->
+    <div class="modal" id="modal-8">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div class="modal-header">
+                <div class="modal-emoji">🌟</div>
+                <div class="modal-song-title">목성 (Jupiter)</div>
+                <div class="modal-composer">홀스트 (1874-1934)</div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">👨‍🎼 작곡가 소개</div>
+                <div class="section-content">
+                    <div class="composer-info">
+                        <strong>홀스트가 가장 사랑한 작품</strong><br>
+                        "행성" 모음곡 중에서도 홀스트 자신이 가장 아끼고 사랑했던 곡입니다.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">🎵 곡 특징</div>
+                <div class="section-content">
+                    <strong>🎉 부제:</strong> "즐거움을 가져다주는 자" (The Bringer of Jollity)<br><br>
+                    <strong>👑 신들의 왕:</strong> 목성은 로마 신화에서 신들의 왕 주피터를 상징합니다.<br><br>
+                    <strong>🎼 음악적 표현:</strong> 웅장하고 장엄한 멜로디가 특징으로, 특히 중간 부분의 아름다운 선율은 나중에 "나는 맹세하노"라는 애국가로도 사용되었습니다. 기쁨과 환희, 그리고 장엄함을 모두 담고 있어요.
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 9번 곡 모달 -->
+    <div class="modal" id="modal-9">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div class="modal-header">
+                <div class="modal-emoji">🇷🇺</div>
+                <div class="modal-song-title">러시아 행진곡</div>
+                <div class="modal-composer">차이코프스키 (1840-1893)</div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">👨‍🎼 작곡가 소개</div>
+                <div class="section-content">
+                    <div class="composer-info">
+                        <strong>러시아 정서를 음악으로 담은 대가</strong><br>
+                        차이코프스키는 러시아의 전통적인 선율과 정서를 서양의 오케스트라 음악에 훌륭히 접목시킨 작곡가입니다.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">🎵 곡 특징</div>
+                <div class="section-content">
+                    <strong>🎭 출처:</strong> 발레 "호두까기 인형" 2막에서 나오는 각국의 춤 중 하나<br><br>
+                    <strong>💃 러시아 전통 춤:</strong> 러시아의 전통적인 민속 춤인 트레파크(Trepak)를 바탕으로 한 곡<br><br>
+                    <strong>🎼 음악적 표현:</strong> 빠른 템포와 강렬한 리듬으로 러시아 사람들의 역동적이고 열정적인 춤을 표현했습니다. 점점 빨라지면서 흥미진진한 분위기를 만들어내요!
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 10번 곡 모달 -->
+    <div class="modal" id="modal-10">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div class="modal-header">
+                <div class="modal-emoji">🌊</div>
+                <div class="modal-song-title">해왕성 (Neptune)</div>
+                <div class="modal-composer">홀스트 (1874-1934)</div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">👨‍🎼 작곡가 소개</div>
+                <div class="section-content">
+                    <div class="composer-info">
+                        <strong>"행성" 모음곡의 마지막 여행</strong><br>
+                        홀스트는 해왕성으로 우주 여행의 마지막을 신비롭게 마무리했습니다.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <div class="section-title">🎵 곡 특징</div>
+                <div class="section-content">
+                    <strong>🔮 부제:</strong> "신비주의자" (The Mystic)<br><br>
+                    <strong>🌌 먼 우주의 끝:</strong> 태양계 가장 바깥쪽 행성으로, 신비롭고 알 수 없는 세계를 상징<br><br>
+                    <strong>🎼 음악적 표현:</strong> 여성 합창이 무대 뒤에서 "아~" 소리를 내며 마치 우주 저 멀리서 들려오는 것 같은 몽환적이고 신비로운 분위기를 연출합니다. 곡이 끝날 때는 점점 사라지며 무한한 우주 속으로 여행을 떠나는 느낌을 줍니다.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let revealedSongs = new Set();
+        
+        // 곡 버튼 클릭 이벤트
+        document.querySelectorAll('.song-button').forEach(button => {
+            button.addEventListener('click', function() {
+                const songNumber = this.getAttribute('data-song');
+                revealSong(songNumber);
+                openModal(songNumber);
+                
+                // 클릭 애니메이션
+                this.classList.add('clicked');
+                setTimeout(() => {
+                    this.classList.remove('clicked');
+                }, 200);
+            });
+        });
+        
+        // 곡 정보 공개
+        function revealSong(songNumber) {
+            const button = document.querySelector(`[data-song="${songNumber}"]`);
+            if (!button.classList.contains('revealed')) {
+                button.classList.add('revealed');
+                revealedSongs.add(songNumber);
+                updateScore();
+            }
+        }
+        
+        // 모달 열기
+        function openModal(songNumber) {
+            document.getElementById(`modal-${songNumber}`).style.display = 'block';
+        }
+        
+        // 모달 닫기
+        function closeModal() {
+            document.querySelectorAll('.modal').forEach(modal => {
+                modal.style.display = 'none';
+            });
+        }
+        
+        // 모달 배경 클릭시 닫기
+        document.querySelectorAll('.modal').forEach(modal => {
+            modal.addEventListener('click', function(e) {
+                if (e.target === this) {
+                    closeModal();
+                }
+            });
+        });
+        
+        // 점수 업데이트
+        function updateScore() {
+            const score = revealedSongs.size;
+            document.getElementById('score').textContent = score;
+            
+            // 진행바 업데이트
+            const progress = (score / 10) * 100;
+            document.getElementById('progress').style.width = progress + '%';
+            
+            // 완주시 축하 메시지
+            if (score === 10) {
+                setTimeout(() => {
+                    document.getElementById('completion').style.display = 'block';
+                    // 축하 효과
+                    confetti();
+                }, 500);
+            }
+        }
+        
+        // 진행도 초기화
+        function resetProgress() {
+            revealedSongs.clear();
+            updateScore();
+            document.querySelectorAll('.song-button').forEach(button => {
+                button.classList.remove('revealed');
+            });
+            document.getElementById('completion').style.display = 'none';
+        }
+        
+        // 간단한 축하 효과 (콘페티 흉내)
+        function confetti() {
+            const colors = ['🎉', '🎊', '✨', '🌟', '💫'];
+            for (let i = 0; i < 50; i++) {
+                setTimeout(() => {
+                    const confettiElement = document.createElement('div');
+                    confettiElement.innerHTML = colors[Math.floor(Math.random() * colors.length)];
+                    confettiElement.style.position = 'fixed';
+                    confettiElement.style.left = Math.random() * 100 + '%';
+                    confettiElement.style.top = '-10px';
+                    confettiElement.style.fontSize = '20px';
+                    confettiElement.style.zIndex = '9999';
+                    confettiElement.style.pointerEvents = 'none';
+                    document.body.appendChild(confettiElement);
+                    
+                    // 떨어지는 애니메이션
+                    let position = -10;
+                    const fall = setInterval(() => {
+                        position += 5;
+                        confettiElement.style.top = position + 'px';
+                        if (position > window.innerHeight) {
+                            clearInterval(fall);
+                            document.body.removeChild(confettiElement);
+                        }
+                    }, 50);
+                }, i * 100);
+            }
+        }
+        
+        // ESC 키로 모달 닫기
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>
